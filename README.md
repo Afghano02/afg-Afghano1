@@ -1,2 +1,2 @@
-# afg-Afghano1
-1000000
+# afg-Afghano2
+Afghano
